@@ -1,0 +1,50 @@
+
+
+// .allcars{
+//   display: flexbox;
+//   justify-content: center;
+// }
+
+.models {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.allcar {
+  display: flex;
+  justify-content: center;
+}
+
+.cars {
+  // margin: 20px;
+  display: block;
+  justify-content: bottom;
+}
+
+.namerange {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.name{
+  margin-right: 170px;
+  font-weight: bolder;
+}
+
+.all{
+  display: inline-block;
+  justify-content: center;
+}
+
+.details{
+  display: inline-block;
+  justify-content: center;
+}
+
+.detail{
+  margin-top: 3px;
+  margin-left: 1px;
+  margin-right: 19px;
+}

@@ -1,0 +1,87 @@
+// body{
+//     background-color: black;
+// }
+
+
+.cardetails{
+    display:flex;
+}
+
+.details{
+    display: block;
+    justify-content: center;
+}
+
+.carname{
+    font-weight: bold;
+    font-size: 5ch;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.btn{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+button{
+    padding: 20px 40px 20px 40px;
+    margin: 40px;
+    border-radius: 50px;
+}
+
+.rangepower{
+    display: flex;
+    margin-left: 223px;
+    gap: 10rem;
+    margin-top: 1rem;
+}
+.peakacceration{
+    display: flex;
+    margin-left: 223px;
+    gap: 10rem;
+    margin-top: 1rem;
+}
+.acceration{
+    margin-left: -2.1rem;
+}
+
+.dragspeed{
+    display: flex;
+    margin-left: 223px;
+    gap: 10rem;
+    margin-top: 1rem;
+}
+.drag{
+    margin-left: -1.6rem;
+}
+
+.weightwheel{
+    display: flex;
+    margin-left: 223px;
+    gap: 10rem;
+    margin-top: 1rem;
+}
+
+.wheel{
+    margin-left: -0.1rem;
+}
+.cargocharging{
+    display: flex;
+    margin-left: 223px;
+    gap: 10rem;
+    margin-top: 1rem;
+}
+.charging{
+    margin-left: -3.7rem;
+}
+
+.order{
+    margin-left: 12rem;
+    margin-top: 5rem;
+    cursor: pointer
+}
+
+.order hover{
+    cursor: pointer
+}
